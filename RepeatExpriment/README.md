@@ -29,6 +29,5 @@ Tafel slope
 
 Two possible way to caculate the 1.5 V-1.75 V: (Not correct)
 
-
 $$c = \sqrt{a^2 + b^2}$$
 
