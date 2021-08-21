@@ -28,6 +28,7 @@ Tafel slope
 (I would say it is very har to understand,the following may be wrong)
 
 Two possible way to caculate the 1.5 V-1.75 V: (Not correct)
+
 ![fomular](Screenshot%202021-08-21%20172512.png)
 
 (need to be discussed!!!!)
